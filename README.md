@@ -16,8 +16,8 @@ The primary goal of this project is to create an API that is both efficient and 
 
 1.  **Clone the repository:**
     ```sh
-    git clone <repository-url>
-    cd tracking-number-api
+    git clone https://github.com/AbhishekShimpi/Scalable_Tracking_Number_Generator_API.git
+    cd Scalable_Tracking_Number_Generator_API
     ```
 
 2.  **Build the project:**
