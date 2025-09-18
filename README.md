@@ -1,10 +1,6 @@
 # Scalable Tracking Number Generator API
 
-This is a Spring Boot application that implements a RESTful API for generating unique, scalable tracking numbers for parcels.
-
-## Objective
-
-The primary goal of this project is to create an API that is both efficient and capable of handling high concurrency, with a design that allows for horizontal scaling.
+This project is a scalable RESTful API designed to generate unique tracking numbers for parcels. Built with Spring Boot and Java, it provides a single, efficient endpoint that can handle high volumes of concurrent requests without relying on a centralized database.
 
 ## Requirements
 
